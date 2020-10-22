@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Abir's github stats](https://github-readme-stats.vercel.app/api?username=Abir-Tx)](https://github.com/anuraghazra/github-readme-stats)
+[![Abir's github stats](https://github-readme-stats.vercel.app/api?username=Abir-Tx)](https://github.com/Abir-Tx)
 
 
 <!--
