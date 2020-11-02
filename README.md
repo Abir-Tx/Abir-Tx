@@ -1,4 +1,10 @@
 ### Hi there 👋
+#### This is Mushfiqur Rahman Abir aka Abir-Tx.
+I am currently a Computer Science Student in American International University of Bangladesh. Love to try new things & make small self made projects 😍
+
+- 🌱 I’m currently learning  - **SQL Database**
+- 👯 I’m looking to collaborate on - **Java & C++ Projects**
+
 [![Abir's github stats](https://github-readme-stats.vercel.app/api?username=Abir-Tx)](https://github.com/Abir-Tx)
 
 
