@@ -8,6 +8,11 @@ I am currently a Computer Science Student in American International University o
 [![Abir's github stats](https://github-readme-stats.vercel.app/api?username=Abir-Tx)](https://github.com/Abir-Tx)
 
 
+### Statistics
+
+![Metrics](https://metrics.lecoq.io/Abir-Tx)
+
+
 <!--
 **Abir-Tx/Abir-Tx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
