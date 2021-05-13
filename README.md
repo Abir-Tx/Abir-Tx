@@ -3,7 +3,7 @@
 I am currently a Computer Science Student in American International University of Bangladesh. Love to try new things & make small self made projects 😍
 
 - 🌱 I’m currently learning  - **C++**
-- 👯 I’m looking to collaborate on - **Java, Python, SQL Database, Qt-5 & C++ Projects**
+- 👯 I’m looking to collaborate on - **Java, Python, SQL Database, HTML, CSS, Qt-5 & C++ Projects**
 
 [![Abir's github stats](https://github-readme-stats.vercel.app/api?username=Abir-Tx)](https://github.com/Abir-Tx)
 
