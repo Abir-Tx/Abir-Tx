@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Abir-Tx.Abir-Tx&left_color=green&right_color=red&left_text=Visitors)
+[![Visits Badge](https://badges.pufler.dev/visits/Abir-Tx/Abir-Tx)](https://badges.pufler.dev)
+
+
