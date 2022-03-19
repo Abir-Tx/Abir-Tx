@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mushfiqur Rahman Abir aka Abir-Tx</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Mushfiqur+Rahman+Abir)](https://git.io/typing-svg)
 <h3 align="center">A passionate Programmer & Photographer From Bangladesh</h3>
 <br>
 
