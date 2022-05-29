@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [FFMPEG-Coder](https://github.com/Abir-Tx/ffmpeg-coder)
 
-- 🌱 I’m currently learning **ASP.NET & C#**
+- 🌱 I’m currently learning **OpenGL Programming**
 
 - 👯 I’m looking to collaborate on [ALib](https://github.com/Abir-Tx/ALib)
 
