@@ -10,7 +10,8 @@
 
 - 👯 I’m looking to collaborate on [ALib](https://github.com/Abir-Tx/ALib)
 
-- 👨‍💻 All of my projects are available at [My Website](https://mr-abir.weebly.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://abir-tx.github.io)
+- 🌎 My personal [Website](https://mr-abir.weebly.com)
 
 - 💬 Ask me about **Linux**
 
