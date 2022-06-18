@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-tx&label=Profile%20views&color=0e75b6&style=flat" alt="abir-tx" /> </p>
 
-- 🔭 I’m currently working on [AIUB-DISCOBOT](https://top.gg/bot/970102591155499038)
+- 🔭 I’m currently working on [AIUB-DISCOBOT](https://aiub-discobot.vercel.app/)
 
 - 🌱 I’m currently learning **OpenGL Programming**
 
