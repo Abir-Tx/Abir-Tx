@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [AIUB-DISCOBOT](https://aiub-discobot.vercel.app/)
 
-- 🌱 I’m currently learning **PHP Programming**
+- 🌱 I’m currently learning **Machine Learning With Python**
 
 - 👯 I’m looking to collaborate on [ALib](https://github.com/Abir-Tx/ALib)
 
