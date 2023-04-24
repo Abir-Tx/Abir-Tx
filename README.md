@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abir-tx.github.io)
 - 🌎 My personal [Website](https://mr-abir.weebly.com)
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **Linux** | I use Arch BTW 😉
 
 - 📫 How to reach me **abirtx@yandex.com**
 
