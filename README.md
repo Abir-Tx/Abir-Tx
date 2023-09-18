@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Mushfiqur+Rahman+Abir)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate Programmer & Photographer From Bangladesh</h3>
 <br>
 
@@ -38,11 +39,16 @@
 
 <br>
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
 <p align=center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abir-tx&show_icons=true&theme=onedark&locale=en&layout=compact" alt="abir-tx" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abir-tx&show_icons=true&theme=onedark&locale=en" alt="abir-tx" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abir-tx&" alt="abir-tx" /></p> -->
-
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abir-tx" alt="abir-tx" /></a> </p> -->
