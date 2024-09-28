@@ -42,11 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Answer by Mushfiqur Rahman Abir for ELSE not executing in the program](https://stackoverflow.com/questions/74265295/else-not-executing-in-the-program/74265443#74265443)
-- [Answer by Mushfiqur Rahman Abir for When I try to run nodemon from terminal](https://stackoverflow.com/questions/71546776/when-i-try-to-run-nodemon-from-terminal/71546806#71546806)
-- [How to unit test a void function in C++](https://stackoverflow.com/questions/67500353/how-to-unit-test-a-void-function-in-c)
-- [Answer by Mushfiqur Rahman Abir for Metaphone-pt-br library for Windows 10 returns &quot;No such file or directory&quot; error when pip install](https://stackoverflow.com/questions/66584675/metaphone-pt-br-library-for-windows-10-returns-no-such-file-or-directory-error/66584755#66584755)
-- [Answer by Mushfiqur Rahman Abir for Clarification of Classes](https://stackoverflow.com/questions/65280222/clarification-of-classes/65280326#65280326)
+- [Taking Notes On Terminal Made Simple: Introducing AppNotEx for Linux](https://dev.to/abirtx/taking-notes-on-terminal-made-simple-introducing-appnotex-for-linux-5e3i)
+- [FFMPEG-Coder: Simplifying Video Conversion with FFMPEG](https://dev.to/abirtx/ffmpeg-coder-simplifying-video-conversion-with-ffmpeg-14aj)
+- [Introducing ALib: Your Cross-Platform C++ Utility Library](https://dev.to/abirtx/introducing-alib-your-cross-platform-c-utility-library-33i5)
+- [Enhance Your Fast.com Experience with the DraculaFast Dark Theme 🌙](https://dev.to/abirtx/enhance-your-fastcom-experience-with-the-draculafast-dark-theme-583p)
+- [Organize Your Digital Study Materials Quickly Using This Tool](https://dev.to/abirtx/organize-your-digital-study-materials-quickly-using-this-tool-54eo)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
